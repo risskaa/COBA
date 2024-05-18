@@ -30,17 +30,3 @@
 1. admin, admin123
 and many more, refer to the localhost database.
 
-# 🎉 Contributing
-First of all, thank you for being interested in helping out, your time is always appreciated in every way. 💯
-
-Here's some tips:
-
-Check the issues page for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
-Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
-Check out the contributing page to see the best places to file issues, start discussions and begin contributing.
-
-# Future improvements?
-Probably make it in laravel framework and integrate Stripe with it. And responsive.
-
-# Open Source?
-Hmm, depends cause I prolly offer the license for sale, it's my intellectual property bro.
