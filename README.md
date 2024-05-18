@@ -1,17 +1,10 @@
-# OG Tech PC Solutions
 
-E-commerce web app project based on mvc model. Inspired by IdealTechPC. Neon theme.
-
-Built with ❤︎ by Andrew TCH88 and contributors
-
-# Frontend
-![image](https://user-images.githubusercontent.com/59404615/208036926-a4863d53-8c29-43cd-9da4-8fbd99eb6909.png)
 
 # Backend
 ![image](https://user-images.githubusercontent.com/59404615/208041648-db078e66-0e85-420b-898a-5964d902abbf.png)
 
 
-# 🚀 Features
+# Fitur
 1. List Products
 2. Filter products by Category
 3. Admin Functions
