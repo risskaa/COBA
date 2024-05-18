@@ -13,18 +13,6 @@
 6. Neon Theme :3
 7. And many more.. but mainly those are the important ones
 
-# User guide
-1. Download xampp
-2. Locate the xampp folder in your machine.
-3. Navigate to htdocs inside the folder and delete everything.
-4. Clone this repository into the folder.
-5. Run xampp.
-![image](https://user-images.githubusercontent.com/59404615/208037550-c3c61ced-0176-49bc-ac5a-95c6b3248a5c.png)
-
-6. Next, go to phpmyadmin localhost web to create a database with ogtech as its name.
-7. Import all the sql data from the OGTECH.sql file in the root project directory.
-8. At the browser, open the web app url http://127.0.0.1//OGTECH/index.php
-8. You can now use this with the credentials stated below.
 
 # Default Accounts
 1. admin, admin123
